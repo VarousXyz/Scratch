@@ -1,5 +1,9 @@
 # README file for scratch project week 0
 
-This is a simple program
+This is a complex program
 
-and then I added a line
+Just something going on
+
+Updates in stage
+
+more upates in woriing directory
